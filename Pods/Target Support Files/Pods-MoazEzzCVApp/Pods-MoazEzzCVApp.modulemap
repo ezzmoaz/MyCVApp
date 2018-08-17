@@ -1,0 +1,6 @@
+framework module Pods_MoazEzzCVApp {
+  umbrella header "Pods-MoazEzzCVApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,84 @@
+PODS:
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - CollectionKit (1.2.1)
+  - DCKit (1.0.10)
+  - FanMenu (0.7.1):
+    - Macaw
+  - Font-Awesome-Swift (1.7.2)
+  - GravitySliderFlowLayout (1.0)
+  - Hero (1.1.0)
+  - Macaw (0.9.1):
+    - SWXMLHash
+  - Parchment (1.1.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SKPhotoBrowser (5.0.7)
+  - Spring (1.0.5)
+  - SWXMLHash (4.6.0)
+  - TableFlip (1.2)
+
+DEPENDENCIES:
+  - ChameleonFramework/Swift (from `https://github.com/ViccAlexander/Chameleon.git`)
+  - CollectionKit
+  - DCKit
+  - FanMenu
+  - Font-Awesome-Swift
+  - GravitySliderFlowLayout
+  - Hero
+  - Parchment
+  - SDWebImage
+  - SKPhotoBrowser
+  - Spring (from `https://github.com/MengTo/Spring.git`)
+  - TableFlip
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CollectionKit
+    - DCKit
+    - FanMenu
+    - Font-Awesome-Swift
+    - GravitySliderFlowLayout
+    - Hero
+    - Macaw
+    - Parchment
+    - SDWebImage
+    - SKPhotoBrowser
+    - SWXMLHash
+    - TableFlip
+
+EXTERNAL SOURCES:
+  ChameleonFramework:
+    :git: https://github.com/ViccAlexander/Chameleon.git
+  Spring:
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  ChameleonFramework:
+    :commit: 6dd284bde21ea2e7f9fd89bc36f40df16e16369d
+    :git: https://github.com/ViccAlexander/Chameleon.git
+  Spring:
+    :commit: 19b04d730d3edabbb02a39e58121d1d3220690ee
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  CollectionKit: 529f21630888b51dfad3e1aa7a2d08e8c28099cb
+  DCKit: 5c331146967c08886cc47baf5903699fdb4dca81
+  FanMenu: 193b20007df3bbc01d263c08f82caaaa324da09d
+  Font-Awesome-Swift: 83ab9db365379ee6025167cec67bdc5d3226a811
+  GravitySliderFlowLayout: bb9ae6a302b85821c9e0271c00533fae8091143b
+  Hero: ce59e81c79390613d97b43da7179e2c5e1017e04
+  Macaw: 8b13bb7ae2f527b3c7b2787988bbc5461a1c66e3
+  Parchment: 88f4b2642a09f37ee314a7492067a9ce04edc3b8
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SKPhotoBrowser: 4ee6bdad381e8bb10e28be445bb300bbc3077512
+  Spring: 48aad470f3ead043b2da98b64e0bf0630b7ebc42
+  SWXMLHash: 3c39a53723202800e9e1a87f14b2fe7ac1da98ec
+  TableFlip: 2ae22773412b295a7cbc54d95b44085bb28092f6
+
+PODFILE CHECKSUM: 37079bb2aa02eadc44051eb601f6cd1903638ab3
+
+COCOAPODS: 1.5.0
